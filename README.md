@@ -26,5 +26,4 @@ Open a pull request and provide a detailed description of your changes
 ***Acknowledgements-***
 We would like to express our gratitude to the Django community and all the open-source contributors who have made this project possible.
 
-***Contact me-***
-For any inquiries or feedback, please email us at aashna3027@gmail.com
+
